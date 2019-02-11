@@ -370,5 +370,53 @@
       "restaurantId": "tasty-treats"
     }
   ],
-  "orders": []
+  "orders": [
+    {
+      "address": "teste",
+      "number": "100",
+      "optionalAddress": "",
+      "paymentOptions": "MON",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuID": "espreso"
+        },
+        {
+          "quantity": 1,
+          "menuID": "starb"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "address": "rua teste",
+      "number": "101",
+      "optionalAddress": "",
+      "paymentOptions": "DEB",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuID": "espreso"
+        },
+        {
+          "quantity": 1,
+          "menuID": "starb"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "address": "rua dois",
+      "number": "101",
+      "optionalAddress": "",
+      "paymentOptions": "DEB",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuID": "zlasagna"
+        }
+      ],
+      "id": 3
+    }
+  ]
 }

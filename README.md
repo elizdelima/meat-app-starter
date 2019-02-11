@@ -145,3 +145,22 @@ Dependências dos pacotes que devem ficar em package.json:
 ## Créditos
 
 Todas as imagens usadas na aplicação são pertencentes a freepik.com
+
+
+###Eliz
+Instalando o Angular
+
+`npm install -g @ angular/cli`
+
+Instalando o package atom-typescript
+
+`install package atom-typescript`
+
+Usando a ide Atom
+
+`Faça download em atom.io
+instale os package no Atom
+autoclose.html
+autocomplete-modules
+ide-typescript
+intentions`
